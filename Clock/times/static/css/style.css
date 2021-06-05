@@ -1,0 +1,22 @@
+body
+{
+	background-color:navy-blue;
+}
+
+.time
+{
+	margin-top: 280px;
+	width: 450px;
+	color: #ffffff;
+	background-color:#000066;
+	font-family: 'Zen Dots',cursive;
+	border-radius: 5px;
+	text-shadow: 3px;
+	text-align: center;
+}
+
+.date small
+{
+	font-size: 20px;
+	color: #ffffff;
+}
